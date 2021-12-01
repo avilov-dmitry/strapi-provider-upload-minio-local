@@ -1,0 +1,12 @@
+{
+  "name": "@avilov.dmitry/strapi-provider-upload-minio",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Avilov Dmitry",
+  "license": "MIT",
+  "repository": "https://github.com/avilov-dmitry/strapi-provider-upload-minio-local",
+  "dependencies": {
+    "minio": "^7.0.0"
+  }
+}
