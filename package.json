@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Avilov Dmitry",
   "license": "MIT",
-  "repository": "https://github.com/avilov-dmitry/strapi-provider-upload-minio-local",
+  "repository": "https://github.com/avilov-dmitry/strapi-provider-upload-minio-local2",
   "dependencies": {
     "minio": "^7.0.0"
   }
