@@ -1,6 +1,6 @@
 {
   "name": "@avilov.dmitry/strapi-provider-upload-minio",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "author": "Avilov Dmitry",
